@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MapTestApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="my_city">Mои города</string>
+    <string name="map">Карта</string>
+    <string name="no_city">У вас нет добавленных городов</string>
+    <string name="hint_city">Введите название города</string>
+</resources>
